@@ -1,3 +1,5 @@
+원본 저장소: [cryschan/BE-Repository](https://github.com/cryschan/BE-Repository) · 프론트엔드: [ai-blog-automation-fe](https://github.com/ye0nuu/ai-blog-automation-fe)
+
 # BE-Repository
 
 > 데이터 수집 및 AI 분석 시스템
